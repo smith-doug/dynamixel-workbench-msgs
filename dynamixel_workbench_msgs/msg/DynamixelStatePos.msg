@@ -9,3 +9,4 @@ int16  present_current
 
 int32  set_position
 int32  set_velocity
+int32  remaining_pos
