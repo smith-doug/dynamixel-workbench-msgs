@@ -39,6 +39,8 @@ add_message_files(
   DynamixelStateList.msg
   DynamixelInfo.msg
   DynamixelLoadInfo.msg
+  DynamixelStatePos.msg
+  DynamixelStatePosList.msg
 )
 
 add_service_files(
